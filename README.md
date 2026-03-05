@@ -17,7 +17,7 @@
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 
-> "Yeah, I could just use Excel like everyone else. But where's the fun in that? I'm building a full-stack DX platform for manufacturing — because this industry deserves better than paper and prayers."
+> Manufacturing is overdue for a real platform. I'm building it.
 
 ## Current Projects
 
