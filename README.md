@@ -14,7 +14,7 @@
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
 
-> Manufacturing is overdue for a real platform. I'm building it.
+> I design systems that scale, ship tools that solve real problems, and automate everything in between.
 
 ## Current Projects
 
