@@ -22,9 +22,9 @@
 
 ## What I'm Building (The Specs)
 
-- **The Archaive Engine** - Not just an app, but a distributed system for manufacturing workflow. Designed with Onion Architecture to ensure that while the world changes, the core business logic remains immutable.
-- **Neural Vision Pipelines** - Deploying YOLO and Tesseract OCR not just for "extraction," but for the deterministic digitization of legacy engineering specs. Turning messy blueprints into structured, queryable data.
-- **Graph-based Intelligence** - Leveraging Neptune + Qdrant to map the complex DNA of industrial data. In my world, everything is connected. If it's not in a graph, you're missing the point.
+- **Distributed Systems Architecture** - Designing systems that scale. Service decomposition, upload pipeline isolation, event-driven messaging — making sure the platform doesn't flinch under pressure.
+- **ML Infrastructure & Ops** - Building the pipeline, not just the model. YOLO, Tesseract OCR, LLMs — deployed as reproducible, observable services. The goal isn't "AI that works on my machine." It's AI that runs in production, at scale, reliably.
+- **Graph-based Intelligence** - Neptune + Qdrant to map the complex DNA of industrial data. Everything is connected. If it's not in a graph, you're missing the point.
 
 ## Tech Arsenal
 
