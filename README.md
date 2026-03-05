@@ -21,8 +21,7 @@
 
 ## Current Projects
 
-- 🏭 **Archaive** *(private)* - A mission-critical manufacturing OS. Orchestrating drawings, BOMs, and technical specs into a unified intelligence layer. Because spreadsheets don't scale, and neither does human error.
-- 🔧 **Internal Tooling** - Automating the boring stuff. If I have to do it twice, it's already coded into a CLI tool.
+- 🔧 *Coming soon...*
 
 ## What I'm Building (The Specs)
 
