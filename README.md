@@ -22,9 +22,9 @@
 
 ## What I'm Building (The Specs)
 
-- **Distributed Systems Architecture** - Designing systems that scale. Service decomposition, upload pipeline isolation, event-driven messaging — making sure the platform doesn't flinch under pressure.
-- **ML Infrastructure & Ops** - Building the pipeline, not just the model. YOLO, Tesseract OCR, LLMs — deployed as reproducible, observable services. The goal isn't "AI that works on my machine." It's AI that runs in production, at scale, reliably.
-- **Graph-based Intelligence** - Neptune + Qdrant to map the complex DNA of industrial data. Everything is connected. If it's not in a graph, you're missing the point.
+- **Distributed Systems** - Service decomposition, event-driven messaging, fault-tolerant scaling. Designing architectures that don't flinch under pressure.
+- **AI Integration & Ops** - Deploying OpenAI and Claude not as toys, but as production-grade components. Reliable, observable, automated.
+- **Web & CLI Applications** - Shipping real products — in the browser and in the terminal. If it needs to exist, it gets built.
 
 ## Tech Arsenal
 
