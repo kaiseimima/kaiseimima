@@ -28,12 +28,12 @@
 
 ## Tech Arsenal
 
-| Layer | Focus | Stack |
-|-------|-------|-------|
-| **Core** | Type-safety & Scalability | TypeScript, Python, FastAPI, SQLAlchemy 2.0 |
-| **Interface** | High-Performance UX | Next.js 15 (App Router), React 19, TanStack Query |
-| **Intelligence** | LLM Orchestration & CV | OpenAI, Claude, PyTorch, YOLO, Vision-RAG |
-| **Foundation** | Resilient Infrastructure | AWS (EventBridge, SQS), Docker, PostgreSQL, Redis |
+| Domain | Focus | Stack |
+|--------|-------|-------|
+| **Languages** | Systems & Application | TypeScript, Python, Go, Rust |
+| **Cloud & Infra** | Scalable Architecture | AWS, Docker, Terraform, CI/CD |
+| **Intelligence** | LLM Orchestration | OpenAI, Claude, MLOps Pipelines |
+| **Platform** | Developer Experience | Node.js, CLI Tooling, macOS, Linux |
 
 ## 🛰 What's Next — The Vision
 
