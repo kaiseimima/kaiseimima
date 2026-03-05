@@ -1,6 +1,6 @@
 # I am Kaisei.
 
-📍 **Kyoto, Japan** → 📍 **Toronto, Canada (April 2026)** | 💻 **Software Engineer**
+📍 **Kyoto, Japan** → 📍 **Toronto, Canada (April 2026)** | 💻 **Software Architect & Systems Builder**
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -17,35 +17,35 @@
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 
-> Yeah, I could just use Excel like everyone else. But where's the fun in that? I'm building a full-stack DX platform for manufacturing — because this industry deserves better than paper and prayers.
+> "Yeah, I could just use Excel like everyone else. But where's the fun in that? I'm building a full-stack DX platform for manufacturing — because this industry deserves better than paper and prayers."
 
 ## Current Projects
 
-- 🏭 **Archaive** *(private)* - Manufacturing DX platform — drawings, BOMs, quotes, projects, all in one place with AI-powered document analysis. You know, the usual impossible stuff.
-- 🔧 *Stay tuned. I don't do just one thing.*
+- 🏭 **Archaive** *(private)* - A mission-critical manufacturing OS. Orchestrating drawings, BOMs, and technical specs into a unified intelligence layer. Because spreadsheets don't scale, and neither does human error.
+- 🔧 **Internal Tooling** - Automating the boring stuff. If I have to do it twice, it's already coded into a CLI tool.
 
-## What I'm Building
+## What I'm Building (The Specs)
 
-- **Archaive Platform** - End-to-end manufacturing workflow: drawing management, BOM trees, quotation engine, and AI agents that actually understand technical documents. Someone had to build it. Might as well be me.
-- **AI Document Analysis** - OCR + YOLO + LLMs to extract structured data from engineering drawings and specs. Turns out machines can read blueprints — they just needed the right teacher.
-- **Graph-based Knowledge** - Neptune + Qdrant for connecting manufacturing data in ways spreadsheets never could. Relationships matter. Even in data.
+- **The Archaive Engine** - Not just an app, but a distributed system for manufacturing workflow. Designed with Onion Architecture to ensure that while the world changes, the core business logic remains immutable.
+- **Neural Vision Pipelines** - Deploying YOLO and Tesseract OCR not just for "extraction," but for the deterministic digitization of legacy engineering specs. Turning messy blueprints into structured, queryable data.
+- **Graph-based Intelligence** - Leveraging Neptune + Qdrant to map the complex DNA of industrial data. In my world, everything is connected. If it's not in a graph, you're missing the point.
 
-## Tech I Work With
+## Tech Arsenal
 
-| Layer | Stack |
-|-------|-------|
-| **Frontend** | Next.js 15 (App Router), React 19, TypeScript, Tailwind CSS, shadcn/ui, Zustand, TanStack Query |
-| **Backend** | FastAPI, SQLAlchemy 2.0, Alembic, Onion Architecture |
-| **AI/ML** | OpenAI, Claude, Google Cloud Vision, PyTorch, YOLO, Tesseract OCR |
-| **Infra** | AWS (S3, CloudFront, EventBridge, SQS), Docker, PostgreSQL, Redis, Qdrant, Neptune |
+| Layer | Focus | Stack |
+|-------|-------|-------|
+| **Core** | Type-safety & Scalability | TypeScript, Python, FastAPI, SQLAlchemy 2.0 |
+| **Interface** | High-Performance UX | Next.js 15 (App Router), React 19, TanStack Query |
+| **Intelligence** | LLM Orchestration & CV | OpenAI, Claude, PyTorch, YOLO, Vision-RAG |
+| **Foundation** | Resilient Infrastructure | AWS (EventBridge, SQS), Docker, PostgreSQL, Redis |
 
 ## 🛰 What's Next — The Vision
 
 > "Modern software is hitting a wall. Most people are just painting over the cracks. I'm here to rebuild the foundation."
 
-- **Operation Toronto (April 2026)** - Moving to Canada to join AWS as a Cloud Support Engineer. If you want to master the world's infrastructure, you go to the source. I'm going to learn how the global engine hums, then I'm going to make it roar.
-- **Autonomous Ecosystems** - DX is just the beginning. The goal is a self-healing, AI-orchestrated industrial complex. No more manual data entry. No more human error. Just pure, efficient automation at scale.
-- **Architectural Sovereignty** - Building the playbook for the next decade of engineering. Software that doesn't just "work," but handles the weight of global industries without breaking a sweat.
+- **Operation Toronto (April 2026)** - Joining AWS as a Cloud Support Engineer. I'm going to the source of the world's infrastructure. My goal: master reliability at a global magnitude and learn how to make the cloud roar.
+- **Autonomous Industrial Ecosystems** - Moving beyond "DX" into fully self-orchestrating systems. Building AI agents that don't just "chat," but execute complex engineering workflows with 99.9% precision.
+- **Architectural Sovereignty** - Proving that deep, clean architecture (DDD/Onion) isn't a luxury — it's the only way to build software that survives the next decade.
 
 ## Philosophy
 
