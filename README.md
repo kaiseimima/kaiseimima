@@ -1,6 +1,6 @@
 # I am Kaisei.
 
-📍 **Tokyo, Japan** | 💻 **Full-Stack Software Engineer** | 🏭 **Manufacturing DX Builder**
+📍 **Kyoto, Japan** → 📍 **Toronto, Canada (April 2026)** | 💻 **Full-Stack Software Engineer** | 🏭 **Manufacturing DX Builder**
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -39,6 +39,14 @@
 | **AI/ML** | OpenAI, Claude, Google Cloud Vision, PyTorch, YOLO, Tesseract OCR |
 | **Infra** | AWS (S3, CloudFront, EventBridge, SQS), Docker, PostgreSQL, Redis, Qdrant, Neptune |
 
+## 🛰 What's Next — The Vision
+
+> "Modern software is hitting a wall. Most people are just painting over the cracks. I'm here to rebuild the foundation."
+
+- **Operation Toronto (April 2026)** - Moving to Canada to join AWS as a Cloud Support Engineer. If you want to master the world's infrastructure, you go to the source. I'm going to learn how the global engine hums, then I'm going to make it roar.
+- **Autonomous Ecosystems** - DX is just the beginning. The goal is a self-healing, AI-orchestrated industrial complex. No more manual data entry. No more human error. Just pure, efficient automation at scale.
+- **Architectural Sovereignty** - Building the playbook for the next decade of engineering. Software that doesn't just "work," but handles the weight of global industries without breaking a sweat.
+
 ## Philosophy
 
 > "Everyone has a plan until they hit production." — The real fight starts after deploy. I don't wait for perfect — I ship, break things in prod, and fix them faster than anyone can complain.
@@ -57,7 +65,7 @@
 - Full-stack means front to back, infra to deploy — I handle it all
 - Onion Architecture enthusiast — good code has layers, deal with it
 - AI isn't replacing me. It's working for me.
-- Powered by mass quantities of coffee from Tokyo
-- I don't wait for permission to build things
+- Powered by mass quantities of coffee and a relentless drive for optimization
+- Currently optimizing life in Kyoto before global expansion
 
 </details>
