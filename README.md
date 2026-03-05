@@ -37,11 +37,13 @@
 
 ## 🛰 What's Next — The Vision
 
-> "Modern software is hitting a wall. Most people are just painting over the cracks. I'm here to rebuild the foundation."
+> "Most people add features. I add infrastructure."
 
-- **Operation Toronto (April 2026)** - Joining AWS as a Cloud Support Engineer. I'm going to the source of the world's infrastructure. My goal: master reliability at a global magnitude and learn how to make the cloud roar.
-- **Autonomous Industrial Ecosystems** - Moving beyond "DX" into fully self-orchestrating systems. Building AI agents that don't just "chat," but execute complex engineering workflows with 99.9% precision.
-- **Architectural Sovereignty** - Proving that deep, clean architecture (DDD/Onion) isn't a luxury — it's the only way to build software that survives the next decade.
+- **Distributed Systems** - Event-driven architectures, service mesh, message queues, fault tolerance. Building systems that scale horizontally and fail gracefully. The monolith era is over.
+- **Language Exploration** - Go for concurrency, Rust for performance, TypeScript for velocity. Every language is a tool — I'm collecting the right ones for the right problems.
+- **Web Platform & CLI Tooling** - Shipping apps that live in the browser and tools that live in the terminal. If it solves a problem, it gets built and deployed.
+- **AI-Native Development** - Not just using LLMs — integrating them as first-class components in real systems. Agents that execute, not just suggest.
+- **Cloud Architecture** - Designing for global scale. Multi-region, resilient, observable. Infrastructure as code, everything automated, nothing manual.
 
 ## Philosophy
 
