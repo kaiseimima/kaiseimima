@@ -41,7 +41,7 @@
 
 ## Philosophy
 
-> "Ship it, learn from it, iterate." — Perfection is the enemy of progress. I'd rather deploy something real today than design something perfect that never ships. Manufacturing hasn't had its software revolution yet — consider this my opening move.
+> "Everyone has a plan until they hit production." — The real fight starts after deploy. I don't wait for perfect — I ship, break things in prod, and fix them faster than anyone can complain.
 
 ## Connect
 
