@@ -1,6 +1,6 @@
 # I am Kaisei.
 
-📍 **Tokyo, Japan** | 🔩 **Engineer. Builder. Architect.** | 🏭 **Manufacturing needs a suit of armor. I'm building it.**
+📍 **Tokyo, Japan** | 💻 **Full-Stack Software Engineer** | 🏭 **Manufacturing DX Builder**
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -17,31 +17,31 @@
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 
-> Sometimes you gotta run before you can walk. Manufacturing is stuck in the paper age — I'm dragging it into the future with AI, full-stack engineering, and an unreasonable amount of coffee.
+> Yeah, I could just use Excel like everyone else. But where's the fun in that? I'm building a full-stack DX platform for manufacturing — because this industry deserves better than paper and prayers.
 
 ## Current Projects
 
-- 🛡️ **Archaive** *(private)* - The suit. A manufacturing DX platform that handles drawings, BOMs, quotes, and projects — with AI that actually reads blueprints.
-- 🔧 *New weapons in development...*
+- 🏭 **Archaive** *(private)* - Manufacturing DX platform — drawings, BOMs, quotes, projects, all in one place with AI-powered document analysis. You know, the usual impossible stuff.
+- 🔧 *Stay tuned. I don't do just one thing.*
 
-## What's in the Workshop
+## What I'm Building
 
-- **Archaive Platform** - The full arsenal: drawing management, BOM trees, quotation engine, and AI agents that understand engineering documents better than most humans
-- **AI Document Analysis** - Teaching machines to see — OCR + YOLO + LLMs extracting structured data from engineering drawings at scale
-- **Graph-based Knowledge** - Connecting every part, every spec, every relationship — Neptune + Qdrant building a knowledge graph that spreadsheets could never dream of
+- **Archaive Platform** - End-to-end manufacturing workflow: drawing management, BOM trees, quotation engine, and AI agents that actually understand technical documents. Someone had to build it. Might as well be me.
+- **AI Document Analysis** - OCR + YOLO + LLMs to extract structured data from engineering drawings and specs. Turns out machines can read blueprints — they just needed the right teacher.
+- **Graph-based Knowledge** - Neptune + Qdrant for connecting manufacturing data in ways spreadsheets never could. Relationships matter. Even in data.
 
-## The Suit's Tech Stack
+## Tech I Work With
 
-| System | Components |
-|--------|------------|
-| **Interface** | Next.js 15 (App Router), React 19, TypeScript, Tailwind CSS, shadcn/ui, Zustand, TanStack Query |
-| **Core Reactor** | FastAPI, SQLAlchemy 2.0, Alembic, Onion Architecture |
-| **J.A.R.V.I.S.** | OpenAI, Claude, Google Cloud Vision, PyTorch, YOLO, Tesseract OCR |
-| **Infrastructure** | AWS (S3, CloudFront, EventBridge, SQS), Docker, PostgreSQL, Redis, Qdrant, Neptune |
+| Layer | Stack |
+|-------|-------|
+| **Frontend** | Next.js 15 (App Router), React 19, TypeScript, Tailwind CSS, shadcn/ui, Zustand, TanStack Query |
+| **Backend** | FastAPI, SQLAlchemy 2.0, Alembic, Onion Architecture |
+| **AI/ML** | OpenAI, Claude, Google Cloud Vision, PyTorch, YOLO, Tesseract OCR |
+| **Infra** | AWS (S3, CloudFront, EventBridge, SQS), Docker, PostgreSQL, Redis, Qdrant, Neptune |
 
 ## Philosophy
 
-> "I built this in a cave... with a box of scraps!" — Not quite, but I believe in building things yourself, shipping fast, and fixing it in flight. Manufacturing hasn't had its Iron Man moment yet. That changes now.
+> "Ship it, learn from it, iterate." — Perfection is the enemy of progress. I'd rather deploy something real today than design something perfect that never ships. Manufacturing hasn't had its software revolution yet — consider this my opening move.
 
 ## Connect
 
@@ -52,12 +52,12 @@
 ---
 
 <details>
-<summary>Classified Intel</summary>
+<summary>A Few Things About Me</summary>
 
-- Runs on coffee the way the Arc Reactor runs on palladium
-- Onion Architecture enthusiast — every great suit has layers
-- AI is my J.A.R.V.I.S. — I build, it assists
-- Full-stack means I don't call for backup
-- Based in Japan, deploying globally
+- Full-stack means front to back, infra to deploy — I handle it all
+- Onion Architecture enthusiast — good code has layers, deal with it
+- AI isn't replacing me. It's working for me.
+- Powered by mass quantities of coffee from Tokyo
+- I don't wait for permission to build things
 
 </details>
