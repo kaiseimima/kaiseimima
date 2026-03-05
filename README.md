@@ -39,12 +39,6 @@
 | **AI/ML** | OpenAI, Claude, Google Cloud Vision, PyTorch, YOLO, Tesseract OCR |
 | **Infra** | AWS (S3, CloudFront, EventBridge, SQS), Docker, PostgreSQL, Redis, Qdrant, Neptune |
 
-## GitHub Activity
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/kaiseimima)
-
-![Kaisei's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaiseimima&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
 ## Philosophy
 
 > "Ship it, learn from it, iterate." — I believe the best software comes from solving real problems in the field. Manufacturing hasn't had its software revolution yet — I'm here to change that.
