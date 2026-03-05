@@ -1,4 +1,4 @@
-# Hi, I'm Kaisei 👋
+# I'm Kaisei 👋
 
 📍 **Japan** | 💻 **Full-Stack Software Engineer** | 🏭 **Manufacturing DX Builder**
 
