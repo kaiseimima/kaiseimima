@@ -60,10 +60,10 @@
 <details>
 <summary>A Few Things About Me</summary>
 
-- Full-stack means front to back, infra to deploy — I handle it all
-- Onion Architecture enthusiast — good code has layers, deal with it
-- AI isn't replacing me. It's working for me.
-- Powered by mass quantities of coffee and a relentless drive for optimization
-- Currently optimizing life in Kyoto before global expansion
+- I don't pick frontend or backend. I pick both.
+- If I use it more than twice, it becomes a CLI tool
+- Go for speed, Rust for safety, TypeScript for everything else
+- AI writes code for me. I review it like a senior engineer.
+- Relocating from Kyoto to Toronto — same intensity, bigger playground
 
 </details>
