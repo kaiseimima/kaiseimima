@@ -18,7 +18,7 @@
 
 ## Current Projects
 
-- 🔧 *Coming soon...*
+🔗 [Crozync](https://github.com/kaiseimima/crozync) - Cross the distance. Stay in sync — real-time presence & shared moments for long-distance relationships
 
 ## What I'm Building (The Specs)
 
